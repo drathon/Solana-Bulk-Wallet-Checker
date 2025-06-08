@@ -1,6 +1,6 @@
 
 # Solana Wallet Checker
-![Screenshot](image.png)
+![Screenshot](screenshot.png)
 
 A modern and simple desktop utility for managing and checking Solana wallets with ease.
 
