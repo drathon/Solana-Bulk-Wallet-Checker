@@ -1,5 +1,5 @@
 solana-sdk
-solders
+solders==0.18.1
 customtkinter
 pillow
 base58
